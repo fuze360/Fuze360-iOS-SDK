@@ -1,0 +1,6 @@
+framework module Fuze360SDK {
+  umbrella header "Fuze360SDK.h"
+
+  export *
+  module * { export * }
+}
